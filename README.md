@@ -1,3 +1,3 @@
 #helps
+Here you can find some demo examples to my blog at rolandbole.at
 
-Here you can find some demo examples to my blog post.
